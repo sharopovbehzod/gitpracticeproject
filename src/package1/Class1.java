@@ -9,8 +9,15 @@ public class Class1 {
 		double num = 34.5;
       // here my changes
 		
+
 		
 		//second check on ibrahm branch
+
+		//Today we have seen new commends on Git and gitHub
+		
+		
+		
+
 	}
 
 }
