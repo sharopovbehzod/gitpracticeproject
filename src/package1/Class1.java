@@ -15,7 +15,10 @@ public class Class1 {
 
 		//Today we have seen new commends on Git and gitHub
 		
-		
+		/*
+		 * this is new 2 line code
+		 * as teacher said 
+		 */
 		
 
 	}
