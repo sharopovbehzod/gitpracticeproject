@@ -4,8 +4,8 @@ public class Class1 {
 
 	public static void main(String[] args) {
 
-		System.out.println("I ");
-		
+		System.out.println("Hello world ");
+		int numOfStudent = 71;
 		
 
 	}
